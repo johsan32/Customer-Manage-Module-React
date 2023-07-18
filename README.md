@@ -1,5 +1,5 @@
 ### React Project 2
-# Customer Manege Module 
+# Customer Manage Module 
 
 #### Bu çalışmada
 - Müşteri ekleme ile ad ve soyadı bilgisi ile bir obje oluşturuldu.
@@ -32,4 +32,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Customer-Manege-Module-React
+# Customer-Manage-Module-React
